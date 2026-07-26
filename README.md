@@ -487,4 +487,4 @@ plt.show()
 
 ## 📄 License
 
-This project is provided for educational purposes. Add a license of your choice (e.g., MIT) if you plan to distribute this repository publicly.
+CodeAlpha-Data Analytics Internship Task 2: Sentimental Analysis 
