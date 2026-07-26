@@ -207,7 +207,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-📈 **Graph:** *Missing Values Per Column* — a bar chart showing the count of null entries in each column.
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task2_Sentiment_Analysis/blob/9d6af6c1d5f5be65c794fee8758c4b143a892f44/01_missing_values.png) 
 
 ### 5. Duplicate Removal
 
