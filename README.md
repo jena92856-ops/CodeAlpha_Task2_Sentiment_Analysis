@@ -385,7 +385,7 @@ plt.title("Correlation Heatmap")
 plt.show()
 ```
 
-📈 **Graph:** *Correlation Heatmap* — annotated heatmap of pairwise correlations between price, rating, and rating count.
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task2_Sentiment_Analysis/blob/b3777bb982a7ac346113103c2b1b310cc042b5db/08_correlation_heatmap.png) 
 
 ### 15. Review Length Distribution
 
