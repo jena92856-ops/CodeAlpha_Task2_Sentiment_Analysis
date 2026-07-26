@@ -356,7 +356,7 @@ plt.title("Most Reviewed Products")
 plt.show()
 ```
 
-📈![image alt](
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task2_Sentiment_Analysis/blob/f8737ff13a28c6ad632392d32b486638a5b98aeb/06_most_reviewed_products.png)
 
 ### 13. Actual vs Discounted Price
 
