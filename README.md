@@ -338,8 +338,7 @@ plt.title("Top Rated Products")
 plt.show()
 ```
 
-📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task2_Sentiment_Analysis/blob/6a9b853d9c999d2e8f45ddafe49a267d1a9e1272/04_discount_distribution.png) 
-
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task2_Sentiment_Analysis/blob/78bb8f621fbe55eb97c52ebc826b3768d667e177/05_top_rated_products.png) 
 ### 12. Most Reviewed Products
 
 The dataset is sorted by `rating_count` (descending) to find the products with the most customer engagement, plotted as a horizontal bar chart.
