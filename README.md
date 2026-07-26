@@ -439,7 +439,7 @@ plt.title("Sentiment Distribution")
 plt.show()
 ```
 
-📈 **Graph:** *Sentiment Distribution* — count plot of Positive / Neutral / Negative product counts.
+📈![image](https://github.com/jena92856-ops/CodeAlpha_Task2_Sentiment_Analysis/blob/b6a72487313eb6363a3fc99daca892c376713f15/10_sentiment_distribution.png) 
 
 ### 18. Average Rating by Sentiment
 
@@ -452,7 +452,7 @@ sns.barplot(x='Sentiment', y='rating', data=file)
 plt.show()
 ```
 
-📈 **Graph:** *Average Rating by Sentiment* — bar chart of mean rating per sentiment category.
+📈![image alt](
 
 ---
 
