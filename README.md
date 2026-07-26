@@ -369,7 +369,7 @@ plt.title("Actual Price vs Discounted Price")
 plt.show()
 ```
 
-📈 **Graph:** *Actual Price vs Discounted Price* — scatter plot comparing list price to sale price.
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task2_Sentiment_Analysis/blob/8be4f83aa25b94618348ff8ad4fe7d7b28e26110/07_price_comparison_scatter.png)
 
 ### 14. Correlation Heatmap
 
