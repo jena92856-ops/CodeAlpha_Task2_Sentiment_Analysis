@@ -452,7 +452,7 @@ sns.barplot(x='Sentiment', y='rating', data=file)
 plt.show()
 ```
 
-📈![image alt](
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task2_Sentiment_Analysis/blob/2f4702b624c1452367759e67d4af5c3e57c0bc5a/11_sentiment_vs_rating.png) 
 
 ---
 
