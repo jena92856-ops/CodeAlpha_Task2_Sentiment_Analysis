@@ -296,7 +296,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-📈![image alt](
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task2_Sentiment_Analysis/blob/7faa045a70973854f9eb523066554107a426a7f6/03_rating_distribution.png) 
 
 ### 10. Discount Percentage Distribution
 
