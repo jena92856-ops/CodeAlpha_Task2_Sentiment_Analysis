@@ -320,8 +320,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-📈 **Graph:** *Discount Percentage Distribution* — histogram with KDE curve showing how discounts are spread across products.
-
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task2_Sentiment_Analysis/blob/78bb8f621fbe55eb97c52ebc826b3768d667e177/04_discount_distribution.png)
 ### 11. Top Rated Products
 
 The dataset is sorted by rating (descending) and the top 10 highest-rated products are displayed as a horizontal bar chart.
