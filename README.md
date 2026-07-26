@@ -338,7 +338,7 @@ plt.title("Top Rated Products")
 plt.show()
 ```
 
-📈 **Graph:** *Top Rated Products* — horizontal bar chart of the 10 highest-rated products.
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task2_Sentiment_Analysis/blob/6a9b853d9c999d2e8f45ddafe49a267d1a9e1272/04_discount_distribution.png) 
 
 ### 12. Most Reviewed Products
 
@@ -356,7 +356,7 @@ plt.title("Most Reviewed Products")
 plt.show()
 ```
 
-📈 **Graph:** *Most Reviewed Products* — horizontal bar chart of the 10 products with the highest number of ratings.
+📈![image alt](
 
 ### 13. Actual vs Discounted Price
 
