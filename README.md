@@ -403,7 +403,7 @@ plt.title("Review Length Distribution")
 plt.show()
 ```
 
-📈 **Graph:** *Review Length Distribution* — histogram with KDE curve of review text lengths.
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task2_Sentiment_Analysis/blob/53dd214f30747e41b145468a67b467ffba854cac/09_review_length_distribution.png) 
 
 ### 16. Sentiment Labeling
 
