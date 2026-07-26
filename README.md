@@ -276,7 +276,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-📈 **Graph:** *Top 10 Product Categories* — bar chart of the most common product subcategories in the dataset.
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task2_Sentiment_Analysis/blob/a18ffe5813ce8521f132709def33a10b6ad28b64/02_top_categories.png) 
 
 ### 9. Rating Distribution
 
@@ -296,7 +296,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-📈 **Graph:** *Product Rating Distribution* — histogram with KDE curve showing the spread of star ratings.
+📈![image alt](
 
 ### 10. Discount Percentage Distribution
 
